@@ -1,0 +1,90 @@
+<html>
+<head>
+<title>Better Safe</title>
+<style>
+html, body
+{
+background-color: #00aeef;
+width: inherit;
+height: inherit;
+margin: 0;
+padding: 0;
+}
+
+#container
+{
+width: inherit;
+height: inherit;
+margin: 0;
+padding: 0;
+background-color: #ffffff;
+border-style: solid;
+border-bottom: solid #00aeef;
+border-right: solid #00aeef;
+border-left: solid #00aeef;
+border-top: none;
+}
+
+h1.title
+{
+margin: 0;
+padding: 0;
+border: 2%;
+font-family: Bernard MT Condensed;
+font-size: 50px;
+}
+
+#infosection
+{
+width: inherit;
+height: 80%;
+margin: 0;
+padding: 0;
+background-color: #ffffff;
+border-style: solid;
+border-width: thick 25px;
+border-color: #00aeef;
+}
+
+
+#backbutton
+{
+width: inherit;
+height: 10%;
+margin: 0;
+padding: 0;
+background-color: #acacac;
+border-style: solid;
+border-width: thick 5 px;
+border-color: #00aeef;
+}
+
+h1.backb
+{
+font-family: Bernard MT Condensed;
+font-size: 50px;
+position: absolute;
+bottom: -1%;
+left: 43%;
+}
+
+
+</style>
+</head>
+
+<body>
+
+<div id="container">
+<h1 class="title"><center>Better Safe</center></h1>
+</div>
+
+<div id="infosection"></div>
+
+<div id="backbutton">
+<h1 class="backb"><center>Back</center></h1>
+</div>
+
+
+</body>
+
+</html>
