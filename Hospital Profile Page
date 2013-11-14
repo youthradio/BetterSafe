@@ -48,9 +48,7 @@ p.hname1phone
 font-family: Times New Roman;
 font-size: 30px;
 font-weight: bold;
-position: absolute;
-top: 19%;
-left: 73%;
+text-align: right;
 
 color: #00aeef;
 }
@@ -60,9 +58,7 @@ p.hname1address
 font-family: Times New Roman;
 font-size: 30px;
 font-weight: bold;
-position: absolute;
-top: 24%;
-left: 60%;
+text-align: right;
 }
 
 p.hname1distance
@@ -70,9 +66,7 @@ p.hname1distance
 font-family: Times New Roman;
 font-size: 30px;
 font-weight: bold;
-position: absolute;
-top: 29%;
-left: 85%;
+text-align: right;
 }
 
 p.picproperties
@@ -80,6 +74,8 @@ p.picproperties
 position: absolute;
 top: 40%;
 left: 28%;
+margin-left: auto;
+margin-right: auto;
 }
 
 #hospitalpageprof
