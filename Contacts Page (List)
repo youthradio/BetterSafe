@@ -67,7 +67,7 @@ position: absolute;
 top: 21%;
 background-image: url('img/phone.png');
 background-repeat: no-repeat;
-background-position: 8% 70%;
+background-position: 8% 60%;
 }
 
 p.hname2
@@ -103,7 +103,7 @@ position: absolute;
 top: 40%;
 background-image: url('img/phone.png');
 background-repeat: no-repeat;
-background-position: 8% 70%;
+background-position: 8% 60%;
 }
 
 p.hname3
@@ -139,7 +139,7 @@ position: absolute;
 top: 59%;
 background-image: url('img/phone.png');
 background-repeat: no-repeat;
-background-position: 8% 70%;
+background-position: 8% 60%;
 }
 
 p.hname4
@@ -175,7 +175,7 @@ position: absolute;
 top: 78%;
 background-image: url('img/phone.png');
 background-repeat: no-repeat;
-background-position: 8% 70%;
+background-position: 8% 60%;
 }
 
 #contactsprof
