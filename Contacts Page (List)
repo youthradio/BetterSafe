@@ -63,9 +63,11 @@ border-bottom: solid 5px;
 font-size: 24px;
 font-weight: bold;
 text-align: right;
-background-image: url();
 position: absolute;
 top: 21%;
+background-image: url('img/phone.png');
+background-repeat: no-repeat;
+background-position: 8% 70%;
 }
 
 p.hname2
@@ -97,9 +99,11 @@ border-bottom: solid 5px;
 font-size: 24px;
 font-weight: bold;
 text-align: right;
-background-image: url();
 position: absolute;
 top: 40%;
+background-image: url('img/phone.png');
+background-repeat: no-repeat;
+background-position: 8% 70%;
 }
 
 p.hname3
@@ -131,9 +135,11 @@ border-bottom: solid 5px;
 font-size: 24px;
 font-weight: bold;
 text-align: right;
-background-image: url();
 position: absolute;
 top: 59%;
+background-image: url('img/phone.png');
+background-repeat: no-repeat;
+background-position: 8% 70%;
 }
 
 p.hname4
@@ -165,9 +171,11 @@ border-bottom: solid 5px;
 font-size: 24px;
 font-weight: bold;
 text-align: right;
-background-image: url();
 position: absolute;
 top: 78%;
+background-image: url('img/phone.png');
+background-repeat: no-repeat;
+background-position: 8% 70%;
 }
 
 #contactsprof
