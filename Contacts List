@@ -1,0 +1,258 @@
+<html>
+<head>
+<title>Better Safe</title>
+<style>
+html, body
+{
+background-color: #00aeef;
+width: inherit;
+height: inherit;
+margin: 0;
+padding: 0;
+}
+
+#container
+{
+width: inherit;
+height: inherit;
+margin: 0;
+padding: 0;
+background-color: #ffffff;
+border-style: solid;
+border-bottom: solid #00aeef;
+border-right: solid #00aeef;
+border-left: solid #00aeef;
+border-top: none;
+}
+
+h1.title
+{
+margin: 0;
+padding: 0;
+border: 2%;
+font-family: Bernard MT Condensed;
+font-size: 50px;
+}
+
+#infosection
+{
+width: inherit;
+height: 80%;
+margin: 0;
+padding: 0;
+background-color: #ffffff;
+border-style: solid;
+border-width: thick 25px;
+border-color: #00aeef;
+}
+
+h1.hospitaltag
+{
+width: 95%;
+margin: 0;
+padding: 5px;
+border: 5px;
+font-family: Bernard MT Condensed;
+font-size: 25px;
+background-color: #acacac;
+text-align: left;
+position: absolute;
+top: 6.9%;
+left: 2%;
+}
+
+p.hname1
+{
+padding: 20px;
+position: absolute;
+top: 8.5%;
+font-size: 25px;
+font-weight: bold;
+}
+
+p.hphone1
+{
+width: 86%;
+padding: 20px;
+position: absolute;
+top: 12%;
+font-size: 25px;
+color: #00aeef;
+border-bottom: solid 3px #000000;
+}
+
+p.hname2
+{
+padding: 20px;
+position: absolute;
+top: 20%;
+font-size: 25px;
+font-weight: bold;
+}
+
+p.hphone2
+{
+width: 86%;
+padding: 20px;
+position: absolute;
+top: 24%;
+font-size: 25px;
+color: #00aeef;
+border-bottom: solid 3px #000000;
+}
+
+p.hname3
+{
+padding: 20px;
+position: absolute;
+top: 32%;
+font-size: 25px;
+font-weight: bold;
+}
+
+p.hphone3
+{
+width: 86%;
+padding: 20px;
+position: absolute;
+top: 36%;
+font-size: 25px;
+color: #00aeef;
+}
+
+h1.clinictag
+{
+width: 95%;
+margin: 0;
+padding: 5px;
+border: 5px;
+font-family: Bernard MT Condensed;
+font-size: 25px;
+background-color: #acacac;
+text-align: left;
+position: absolute;
+top: 46%;
+left: 2%;
+}
+
+p.cname1
+{
+padding: 20px;
+font-size: 25px;
+font-weight: bold;
+position: absolute;
+top: 48%;
+}
+
+p.cphone1
+{
+color: #00aeef;
+font-size: 25px;
+width: 86%;
+padding: 20px;
+position: absolute;
+top: 52%;
+border-bottom: solid 3px #000000;
+}
+
+p.cname2
+{
+padding: 20px;
+font-size: 25px;
+font-weight: bold;
+position: absolute;
+top: 60%;
+}
+
+p.cphone2
+{
+padding: 20px;
+color: #00aeef;
+font-size: 25px;
+width:86%;
+position: absolute;
+top: 64%;
+border-bottom: solid 3px #000000;
+}
+
+p.cname3
+{
+padding: 20px;
+font-size: 25px;
+font-weight: bold;
+position: absolute;
+top: 72%;
+}
+
+p.cphone3
+{
+padding: 20px;
+color: #00aeef;
+font-size: 25px;
+width:86%;
+position: absolute;
+top: 76%;
+}
+
+#backbutton
+{
+width: inherit;
+height: 10%;
+margin: 0;
+padding: 0;
+background-color: #acacac;
+border-style: solid;
+border-width: thick 5 px;
+border-color: #00aeef;
+}
+
+h1.backb
+{
+font-family: Bernard MT Condensed;
+font-size: 50px;
+position: absolute;
+bottom: 1%;
+left: 43%;
+}
+
+
+</style>
+</head>
+
+<body>
+
+<div id="container">
+<h1 class="title"><center>Better Safe</center></h1>
+</div>
+
+<div id="infosection">
+<h1 class="hospitaltag">Hospitals</h1>
+
+<p class="hname1">Kaiser Permanente</p>
+<p class="hphone1">(555) 555-5555</p>
+
+<p class="hname2">Hospital</p>
+<p class="hphone2">(555) 555-5555</p>
+
+<p class="hname3">Hospital</p>
+<p class="hphone3">(555) 555-5555</p>
+
+<h1 class="clinictag">Clinics</h1>
+<p class="cname1">Clinic</p>
+<p class="cphone1">(555) 555-5555</p>
+
+<p class="cname2">Clinic</p>
+<p class="cphone2">(555) 555-5555</p>
+
+<p class="cname3">Clinic</p>
+<p class="cphone3">(555) 555-5555</p>
+</div>
+
+<div id="backbutton">
+<h1 class="backb"><center>Back</center></h1>
+</div>
+
+
+</body>
+
+</html>
