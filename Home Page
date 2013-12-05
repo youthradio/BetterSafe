@@ -102,14 +102,14 @@ width: 47%;
 </div>
 
 <div id="hospitals">
-<a href= "pages/Better Safe - Nearby Hospitals Page (List).html">
+<a href= "pages/BetterSafe-NearbyHospitalsPage(List).html">
 <h1 class="button1">Hospitals</h1>
 <img style = "position: absolute; top: 5%; right: 19%; width: 60%; height: 70%;" src = "images/hospital.jpg"/>
 </a>
 </div>
 
 <div id="contacts">
-<a href= "pages/Better Safe - Contacts List Page.html">
+<a href= "pages/BetterSafe-ContactsListPage.html">
 <h1 class="button2">Contacts</h1>
 <img style = "width: 63%; height: 70%; position: absolute; top: 5%; right: 18%;" src = "images/trueimage.jpg"/>
 </a>
